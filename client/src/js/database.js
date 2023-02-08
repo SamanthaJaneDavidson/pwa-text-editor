@@ -39,10 +39,11 @@ export const getDb = async () => {
   const store = txt.objectStore('jate');
 
   const request = store.get(1);
+  console.log(request);
 
   const result = await request;
   console.log('result.value', result);
-  return result;
+  return result.value;
 }
 
 //Start DB
