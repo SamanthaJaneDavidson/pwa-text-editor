@@ -6,7 +6,7 @@ The goal of this project was to create a progressive web application text editor
 
 ## Site Image
 
-To visit the site, please click [here](TBA).
+To visit the site, please click [here](https://pwa-text-editor-sd.herokuapp.com/).
 
 ## License
 
